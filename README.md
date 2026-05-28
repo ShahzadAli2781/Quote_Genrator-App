@@ -199,6 +199,3 @@ This project helped in understanding:
 * Random Data Logic
 * Modern Android Layout Design
 
-
-
-Shahzad Ali
